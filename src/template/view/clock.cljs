@@ -104,13 +104,6 @@
                         :stroke           "red"
                         :stroke-width     (* size 0.008)}}]))))
 
-(defonce time-atom (atom nil))
-
-(when-not (deref time-atom)
-  (js/setInterval (fn []
-                    (reset! time-atom (get-time)))
-                  1000))
-
 
 (defn analogue-clock
   [app-state-atom size]

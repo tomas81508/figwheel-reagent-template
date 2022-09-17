@@ -1,2 +1,2 @@
-{:output-dir "resources/public/js"}
+{:output-to "resources/public/js/main.js"}
 
