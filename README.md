@@ -1,1 +1,4 @@
+# Template
+
+    clj -M:dev
 

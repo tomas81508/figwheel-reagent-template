@@ -1,0 +1,2 @@
+{:optimizations :advanced
+ :main template.main}
