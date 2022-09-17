@@ -13,4 +13,7 @@ pom.xml
 .nrepl-port
 .idea/
 .rebel_readline_history
-app-template.iml
+template.iml
+.cpcache
+figwheel-reagent-template.iml
+
